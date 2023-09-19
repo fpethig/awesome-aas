@@ -125,6 +125,12 @@ Image available at Dockerhub.
 
 https://gitlab.com/novaas/catalog/nova-school-of-science-and-technology/novaas
 
+### FAAAST-Service
+
+FA³ST - Fraunhofer Advanced Asset Administration Shell Tools (for Digital Twins)
+
+https://github.com/FraunhoferIOSB/FAAAST-Service
+
 ## Documentation 📝
 
 ### Specifications
